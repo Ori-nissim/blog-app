@@ -1,3 +1,10 @@
+# How to run in you local enviroment
+1. Clone this repo
+2. navigate to the project - cd blog-app
+3. run npm install
+4. run npm run dev
+5. Enjoy!
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
